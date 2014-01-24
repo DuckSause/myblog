@@ -1,0 +1,12 @@
+<html>
+
+ <head>
+  <title>Welcome - DuckSause's Blog</title>
+ </head>
+
+ <body>
+  
+  <p>Nice to welcome.</p>
+
+ <body>
+</html>
